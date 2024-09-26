@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:calculator/components/buttonText.dart';
+import 'package:calculator/components/button_text.dart';
 import 'package:math_expressions/math_expressions.dart';
 
 class CalculatorView extends StatefulWidget {
